@@ -18,20 +18,20 @@ It is a social media website which offers many cool features like a chat engine,
 ## Screenshots
 <div> 
 <h3>Sign Up Page </h3>
-  <img src="https://user-images.githubusercontent.com/64069582/191919931-e94c5d1f-d53f-4ef9-878f-c4d733660258.png" width="500" height="250px">
+  <img src="https://user-images.githubusercontent.com/64069582/191919931-e94c5d1f-d53f-4ef9-878f-c4d733660258.png" width="350" height="200px">
 </div>
 
 <div>
 <h3>Home Page </h3>
-  <img src="https://user-images.githubusercontent.com/64069582/191920453-de8a10f8-8cbd-4905-918f-7120533f723b.png" width="500" height="250px">
+  <img src="https://user-images.githubusercontent.com/64069582/191920453-de8a10f8-8cbd-4905-918f-7120533f723b.png" width="350" height="200px">
 </div>
 <div> 
    <h3>Profile Update Page </h3>
-  <img src="https://user-images.githubusercontent.com/64069582/191920492-7c39459a-945b-48a5-9eb9-4424b84e04f8.png" width="500" height="250px">
+  <img src="https://user-images.githubusercontent.com/64069582/191920492-7c39459a-945b-48a5-9eb9-4424b84e04f8.png" width="350" height="200px">
 </div>
 <div> 
   <h3>Chating With Your Freinds </h3>
-  <img src="https://user-images.githubusercontent.com/64069582/191920500-da2adb49-ca3d-4dac-bf05-ebf62cfd8927.png" width="400" height="350px">
+  <img src="https://user-images.githubusercontent.com/64069582/191920500-da2adb49-ca3d-4dac-bf05-ebf62cfd8927.png" width="300" height="300px">
 </div>
 
 ## Technologies Stack:
